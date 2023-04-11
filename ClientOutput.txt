@@ -1,0 +1,26 @@
+Last login: Mon Apr 10 21:22:02 on ttys002
+audreydennis@Audreys-MacBook-Pro-9 info314 % javac TCPClient.java
+audreydennis@Audreys-MacBook-Pro-9 info314 % java TCPClient djxmmx.net 17
+"Was I out of my head?
+ Was I out of my mind?
+ How could I have ever been so blind?
+ I was waiting for an invitation, but it was hard to find.
+ Don't matter what I say only what I do, I never mean to do bad things to you.
+ So quiet but I finally woke up, If you're sad then its time you spoke up too..."
+	 - Fastball (Out Of My Head)
+
+audreydennis@Audreys-MacBook-Pro-9 info314 % time.nist.gov 13
+zsh: command not found: time.nist.gov
+audreydennis@Audreys-MacBook-Pro-9 info314 % java TCPClient time.nist.gov 13
+
+60045 23-04-11 04:26:58 50 0 0 710.0 UTC(NIST) * 
+audreydennis@Audreys-MacBook-Pro-9 info314 % java TCPClient tcpbin.com 4242 one two three
+Get / Http/1.0
+
+one two three 
+^C%                                                                                                                audreydennis@Audreys-MacBook-Pro-9 info314 % javac TCPClient.java           
+audreydennis@Audreys-MacBook-Pro-9 info314 % java TCPClient tcpbin.com 4242 audrey dennis info 314
+Get / Http/1.0
+
+audrey dennis info 314 
+
